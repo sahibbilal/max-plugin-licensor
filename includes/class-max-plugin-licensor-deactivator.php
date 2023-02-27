@@ -1,0 +1,1 @@
+<?phpclass MAX_PLUGIN_LICENSOR_Deactivator {	public static function deactivate() {}}
